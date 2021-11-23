@@ -1,0 +1,6 @@
+framework module AMNowClockView {
+  umbrella header "AMNowClockView-umbrella.h"
+
+  export *
+  module * { export * }
+}

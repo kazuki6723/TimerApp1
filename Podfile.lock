@@ -1,0 +1,16 @@
+PODS:
+  - AMNowClockView (2.2.0)
+
+DEPENDENCIES:
+  - AMNowClockView
+
+SPEC REPOS:
+  trunk:
+    - AMNowClockView
+
+SPEC CHECKSUMS:
+  AMNowClockView: d54990c760e36437c04abaeecfa02f0cc234ae7e
+
+PODFILE CHECKSUM: 0c163e0fc4a7d26458274ad59d891546b1e88bb3
+
+COCOAPODS: 1.10.1
